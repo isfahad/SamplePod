@@ -1,0 +1,22 @@
+{
+  "name": "myExtensions",
+  "version": "0.1.0",
+  "summary": "A short description of myExtensions.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/fahad/myExtensions",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "fahad": "isfahadsk@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/fahad/myExtensions.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "myExtensions/Classes/**/*"
+}
